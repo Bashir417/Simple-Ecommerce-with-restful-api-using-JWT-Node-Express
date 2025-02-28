@@ -6,7 +6,7 @@
     "scripts": {
         "start": "nodemon app.js"
     },
-    "author": "Bellal Hossain (FullStack Developer)",
+    "author": "Md. Bashir Ahmed",
     "license": "ISC",
     "dependencies": {
         "bcrypt": "^5.0.1",
